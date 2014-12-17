@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html charset=UTF-8">
+		<title></title>
+		<meta name="Description" content="">
+		<meta name="Keywords" content="">
+
+		<style type="text/css">
+			*{margin:0;padding:0;}
+			body{font-size:12px;font-family:"微软雅黑";background:#e5e5e3;#666;}
+			.course{width:1024px;height:1000px;margin:30px auto;color:#fff;}
+			.course .course_box{width:255px;height:155px;margin-left:1px;float:left;cursor:pointer;margin-bottom:20px;position:relative;}
+			.course .course_box h3{font-size:30px;font-weight:300px;text-align:center;margin-top:63px;}
+			.course .course_box p{width:225px;height:155px;position:absolute;left:0;top:0;padding:5px;}
+			.course .course_box p span{display:block;margin-top:8px;}
+			.course .blue{background:#0066ff;}
+			.course .red{background:#c03;}
+			.course .gray{background:#555;}
+			.course .orange{background:#f63;}
+			.course .green{background:#3c0;}
+			.course .brown{background:#804000;}
+			.course .yellow{background:#fc0;}
+
+
+		</style>
+	</head>
+<body>
+	<div class="course">
+		<div class="course_box blue">
+			<h3>Java系统课程</h3>
+			<p>
+			<span>Java系统课程</span>
+			<span>浏览器语言：HTML、CSS、JS、开发工具、第一个HTML页面（含详解）、CSS基本样式、基本标签、A、img、什么是css?css基本语法、选择器（部分）、width、height、border、background、margin、padding、基本样式、文字操作、颜色写法、HTML书写规范</span>
+			</p>
+		</div>
+		<div class="course_box red"></div>
+		<div class="course_box gray"></div>
+		<div class="course_box orange"></div>
+
+		<div class="course_box green"></div>
+		<div class="course_box brown"></div>
+		<div class="course_box yellow"></div>
+		<div class="course_box blue"></div>
+
+		<div class="course_box blue"></div>
+		<div class="course_box gray"></div>
+		<div class="course_box blue"></div>
+		<div class="course_box yellow"></div>
+
+		<div class="course_box orange"></div>
+		<div class="course_box green"></div>
+		<div class="course_box brown"></div>
+		<div class="course_box orange"></div>
+
+		<div class="course_box yellow"></div>
+		<div class="course_box orange"></div>
+		<div class="course_box blue"></div>
+		<div class="course_box gray"></div>
+	</div>
+</body>
+</html>
